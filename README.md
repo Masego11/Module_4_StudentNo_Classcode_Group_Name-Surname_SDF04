@@ -6,7 +6,7 @@
 ## Button class
 
 1. **Text**: 
-    - Text in buttons has been aligned to centre.
+    - Text in buttons has been aligned to button centre.
 2. **Font Weight**: 
     - Font wieght of button text increased to 1000.
 3. **Font-Family**: 
