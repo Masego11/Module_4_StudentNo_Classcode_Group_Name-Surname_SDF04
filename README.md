@@ -1,40 +1,64 @@
 # [SDF04] CSS Magic Buttons
 
-Get ready to create animated buttons using CSS! This project focuses on creating three unique animated buttons using CSS. With this challenge, you'll dive into the world of CSS animations, transitions, and interactivity.
+## Project Outline
+-In my project I created button animations for my three buttons namely button 1,2 and 3. The three buttons have different animation functions.
 
-## Learning Goals
+## Button class
 
-By completing this project, you will learn to:
+1. **Text**: 
+    - Text in buttons has been aligned to centre.
+2. **Font Weight**: 
+    - Font wieght of button text increased to 1000.
+3. **Font-Family**: 
+    - Font family changed to 'Times new Roman'.
+4. **Margin**:
+    - Margin between Buttons increased to 100px.
 
-- Design engaging button animations with CSS.
-- Master the use of CSS transitions and animations for interactive effects.
+## Button-1
 
-![alt text](./images/image.png)
+1. **Border**:
+    - Button border thickness set to 3px and colour set to olive.
 
-## Project Overview
+2. **Background**:
+     - Background colour set to pale golden rod.
+    
+3. **Hover**:
+    - Button hover funtion called and text colour to change to Cadet Blue.
 
-### Time Estimate: 2 hours
+## Button-2
 
-## What you Need to Do:
+1. **Over flow**:
+    - Called the overflow function to clip button edges.
 
-1. **Starter Code**: Clone the starter code from GitHub for your project. The HTML structure is provided, and you'll focus on adding styles in the `style.css` file.
+2. **Border**:
+    - Set button border thickness to 3px and colour to grey.
 
-    - Starter code can be found here: https://github.com/CodeSpace-Academy/Module_4_StudentNo_Classcode_Group_Name-Surname_SDF04
+3. **Selector**:
+    - Hover selector to change to different shades of grey when hovered on. 
 
-2. **Write your CSS Styles**: Create your animations from scratch. You're welcome to go through our curated buttons for inspiration: [View Reference](https://codepen.io/codespace-academy/pen/xxmWrjX). 
+4. **Rotation**:
+    - Button to rotate 180deg when hovered on. 
 
-3. **Prepare Your Repository**: 
-    - Save all chanes and update your GitHub repository with the final versions of all files.
-    - Include a `README.md` file that outlines the project, your design choices, and any notes on challenges you faced or features you're particularly proud of.
-    - Ensure your repository is set to public so it can be accessed by your code coach.
+## Button-3
 
-4. **Submit on LMS**:
-    - Submit the link to your GitHub repository on the LMS under the SDF04 project tab.
+1. **Colour**:
+    - Button colour set to grey.
 
-Embark on this CSS journey to transform simple buttons into interactive, animated elements. Let your creativity shine and enjoy the process of bringing static elements to life!
+2. **Hover**:
+    - Shades of blue to pop up when button is hovered on.
+
+## Challenges
+
+1. **Hover**:
+    - Getting my buttons to perform thier respective functions when hovered on.
+
+2. **Shadows**: 
+    - Understanding the application of boxes shadow colours.
+
+3. **Function**:
+     - Understanding how functions such as 'z-index' and 'content' contribute towards the desired animation outcome.
 
 
-## Submission Guidelines
-- Submit the link to your GitHub repository on the LMS under the SDF04 project tab.
 
-Embark on this CSS journey to transform simple buttons into interactive, animated elements. Let your creativity shine and enjoy the process of bringing static elements to life!
+
+
